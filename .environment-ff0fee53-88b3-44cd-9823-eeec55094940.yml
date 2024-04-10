@@ -572,7 +572,6 @@ dependencies:
 - typing_utils=0.1.0=pyhd8ed1ab_0
 - r-warp=0.2.1=r42h57805ef_0
 - libspatialite=5.1.0=h7bd4643_4
-- rdma-core=50.0=hd3aeb46_0
 - xorg-libxext=1.3.4=h0b41bf4_2
 - _openmp_mutex=4.5=2_kmp_llvm
 - r-stringi=1.7.6=r42h884c59f_0
